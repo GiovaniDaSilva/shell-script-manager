@@ -81,8 +81,3 @@ npm run dev
 ```
 
 ---
-
-## 📄 Licença
-
-MIT — feito por [@GiovaniDaSilva](https://github.com/GiovaniDaSilva) 🚀
-
