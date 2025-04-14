@@ -6,6 +6,10 @@ Ideal para uso pessoal ou em equipe, tornando a automação mais acessível com 
 
 ---
 
+![image](https://github.com/user-attachments/assets/b99c5847-4126-4cdc-8d59-d517d97eaf91)
+
+---
+
 ## 🚀 Como rodar o projeto
 
 ### 1. Clone o repositório
